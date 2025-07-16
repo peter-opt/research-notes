@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "reviews/index.html",
+    "href": "reviews/index.html",
+    "title": "Reviews",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "papers/index.html",
+    "href": "papers/index.html",
+    "title": "Paper Notes",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "discussions/index.html",
+    "href": "discussions/index.html",
+    "title": "Discussions",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "research-notes",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "cheatsheets/index.html",
+    "href": "cheatsheets/index.html",
+    "title": "Cheatsheets",
+    "section": "",
+    "text": "No matching items"
+  }
+]
