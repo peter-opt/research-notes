@@ -1,0 +1,31 @@
+# _quarto.yml
+
+project:
+  type: website
+  output-dir: _site # This is the standard output directory
+
+website:
+  title: "Peter's Research Notes" # Or whatever you prefer
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: reviews/index.qmd
+        text: Reviews
+      - href: papers/index.qmd
+        text: Paper Notes
+      - href: cheatsheets/index.qmd
+        text: Cheatsheets
+      - href: discussions/index.qmd
+        text: Discussions
+  page-footer: "Built with Quarto"
+
+format:
+  html:
+    theme: cosmo # A clean, modern theme. Others: litera, materia, zephyr
+    css: styles.css
+    toc: true
+    toc-depth: 3
+
+# Add your bibliography file here
+bibliography: references.bib
