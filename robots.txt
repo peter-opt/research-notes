@@ -1,1 +1,1 @@
-Sitemap: https://peteropt.github.io/research-notes/sitemap.xml
+Sitemap: https://peter-opt.github.io/research-notes/sitemap.xml
