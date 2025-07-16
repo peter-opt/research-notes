@@ -2,23 +2,30 @@
   {
     "objectID": "reviews/index.html",
     "href": "reviews/index.html",
-    "title": "Reviews",
+    "title": "Literature Reviews",
     "section": "",
-    "text": "No matching items"
+    "text": "This section contains comprehensive overviews of specific research areas, technological trends, and my synthesis of the current state of the art.\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Title\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\n\nTitle\n\n\n\nstatus\n\n\n\n\n\n\n\n\n \n\n\nReconstruction in Photoacousitc Computed Tomography (PACT)\n\n\nPlanned\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "concepts/index.html",
+    "href": "concepts/index.html",
+    "title": "Concepts",
+    "section": "",
+    "text": "This section contains a repository of essential physical principles, mathematical tools, and foundational equations. Below is a list of completed notes and topics I plan to cover.\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Title\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\n\nTitle\n\n\n\nstatus\n\n\n\n\n\n\n\n\n \n\n\nThe Photoacoustic Equation\n\n\nPlanned\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site: a research notes gallery from Peter."
+    "text": "About This Site\nThis site is a collection of my living notes.\n\n\nAbout Me\nMy name is Peter L. Huang. I am a researcher based in Pasadena, CA, specializing in optics and photoacoustics..\n\n\nLinks\n\nFor my full CV and publication list, please visit my academic page."
   },
   {
-    "objectID": "papers/index.html",
-    "href": "papers/index.html",
-    "title": "Paper Notes",
+    "objectID": "papers/2005_lihong_ubp.html",
+    "href": "papers/2005_lihong_ubp.html",
+    "title": "Universal Back Projection",
     "section": "",
-    "text": "No matching items"
+    "text": "Notes on the classic universal back-projection (UBP) algorithm (Xu and Wang 2005).\n\n\n\n\nReferences\n\nXu, Minghua, and Lihong V. Wang. 2005. “Universal Back-Projection Algorithm for Photoacoustic Computed Tomography.” Phys. Rev. E 71 (January): 016706. https://doi.org/10.1103/PhysRevE.71.016706."
   },
   {
     "objectID": "discussions/index.html",
@@ -28,17 +35,31 @@
     "text": "No matching items"
   },
   {
+    "objectID": "papers/index.html",
+    "href": "papers/index.html",
+    "title": "Paper Notes",
+    "section": "",
+    "text": "Here I deconstruct and rebuild the ideas from classic and influential papers.\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Title\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\n\nTitle\n\n\n\nAuthor\n\n\n\nJournal\n\n\n\nstatus\n\n\n\n\n\n\n\n\n2005\n\n\nUniversal Back Projection\n\n\nMinghua Xu, Lihong\n\n\nPhys. Rev. E\n\n\nPlaned\n\n\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Research Notes Panel",
     "section": "",
-    "text": "img\n\n\n\n‘What I cannot create, I do not understand.’ — Richard Feynman\n\nThis site is my digital chalkboard, a place to organize my thoughts and rigorously derive concepts from foundational papers in fields like photoacoustics.\nFollowing Richard Feynman’s principle, my goal is not simply to summarize but to rebuild these ideas from the ground up. By constructing these concepts myself, I aim to solidify my own understanding while sharing these distilled insights with a broader audience.\nThis website is organized into the following sections:\n\nHome: You are here. The front panel and mission statement for this site.\nReviews: Comprehensive overviews of specific research areas or technological trends.\nPaper Notes: Deep dives and rigorous derivations from classic and influential papers.\nConcepts: A repository of essential physical principles, mathematical tools, and foundational equations.\nDiscussions: Explorations of open questions, future directions, and ongoing thoughts in the field.\n\nThanks to Gemini 2.5 Pro for the recommendation of Quarto for this site and invaluable helps in clearing away the fog of formulas."
+    "text": "‘What I cannot create, I do not understand.’ — Richard Feynman\n\nThis site is my digital chalkboard, a place to organize my thoughts and rigorously derive concepts from foundational papers in fields like photoacoustics.\nFollowing Richard Feynman’s principle, my goal is not simply to summarize but to rebuild these ideas from the ground up. By constructing these concepts myself, I aim to solidify my own understanding while sharing these distilled insights with a broader audience.\nThis website is organized into the following sections:\n\nHome: You are here. The front panel and mission statement for this site.\nReviews: Comprehensive overviews of specific research areas or technological trends.\nPaper Notes: Deep dives and rigorous derivations from classic and influential papers.\nConcepts: A repository of essential physical principles, mathematical tools, and foundational equations.\nDiscussions: Explorations of open questions, future directions, and ongoing thoughts in the field."
   },
   {
-    "objectID": "concepts/index.html",
-    "href": "concepts/index.html",
-    "title": "Concepts",
+    "objectID": "concepts/photoacoustic_equation.html",
+    "href": "concepts/photoacoustic_equation.html",
+    "title": "The Photoacoustic Equation",
     "section": "",
-    "text": "No matching items"
+    "text": "Content for this section is planned and will be added soon."
+  },
+  {
+    "objectID": "reviews/pact_recon.html",
+    "href": "reviews/pact_recon.html",
+    "title": "Reconstruction in Photoacousitc Computed Tomography (PACT)",
+    "section": "",
+    "text": "Content for this section is planned and will be added soon."
   }
 ]
