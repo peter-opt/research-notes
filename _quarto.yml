@@ -6,6 +6,9 @@ project:
 
 website:
   title: "Peter's Research Notes" # Or whatever you prefer
+
+  site-url: https://peteropt.github.io/research-notes
+
   navbar:
     left:
       - href: index.qmd
