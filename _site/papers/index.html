@@ -79,9 +79,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: [{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-Date','listing-title','listing-Author','listing-Journal','listing-status',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
       
-      searchColumns: [],
+      searchColumns: ["listing-title","listing-author"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -170,6 +170,12 @@ window.Quarto = {
 <span class="menu-text">Discussions</span></a>
   </li>  
 </ul>
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../about.html"> 
+<span class="menu-text">About</span></a>
+  </li>  
+</ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
 </div>
@@ -205,14 +211,77 @@ window.Quarto = {
 </header>
 
 
+<p>Here I deconstruct and rebuild the ideas from classic and influential papers.</p>
 
 
 
 
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-
+<div class="quarto-listing quarto-listing-container-table" id="listing-listing">
+<div class="listing-actions-group">
+   <div class="input-group input-group-sm quarto-listing-sort">
+    <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
+    <select id="listing-listing-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-listing'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
+      <option value="" disabled="" selected="" hidden="">Order By</option>
+      <option value="index" data-direction="asc">Default</option>
+      <option value="listing-title-sort" data-direction="asc">
+        Title
+      </option>
+    </select>
+  </div>
+    <div class="input-group input-group-sm quarto-listing-filter">
+      <span class="input-group-text"><i class="bi bi-search"></i></span>
+      <input type="text" class="search form-control" placeholder="Filter">
+    </div>
 </div>
+<table class="quarto-listing-table table table-striped">
+<thead>
+<tr>
+
+<th>
+Date
+</th>
+
+<th>
+<a class="sort" data-sort="listing-title-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Title</a>
+</th>
+
+<th>
+Author
+</th>
+
+<th>
+Journal
+</th>
+
+<th>
+status
+</th>
+
+</tr>
+</thead>
+<tbody class="list">
+
+<tr data-index="0" data-listing-file-modified-sort="1752648733510" data-listing-reading-time-sort="1" data-listing-word-count-sort="9" data-listing-title-sort="Universal Back Projection" data-listing-filename-sort="2005_lihong_ubp.qmd">
+<td>
+<span class="listing-Date">2005</span>
+</td>
+<td>
+<a href="../papers/2005_lihong_ubp.html" class="title listing-title">Universal Back Projection</a>
+</td>
+<td>
+<span class="listing-Author">Minghua Xu, Lihong</span>
+</td>
+<td>
+<span class="listing-Journal">Phys. Rev.&nbsp;E</span>
+</td>
+<td>
+<span class="listing-status">Planed</span>
+</td>
+
+</tr>
+
+</tbody>
+</table>
 <div class="listing-no-matching d-none">No matching items</div>
 </div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -621,7 +690,7 @@ window.Quarto = {
       &nbsp;
     </div>   
     <div class="nav-footer-center">
-<p>Built with Quarto</p>
+<p>© 2025 Peter L. Huang. This site was built with Quarto, with thanks to Gemini.</p>
 </div>
     <div class="nav-footer-right">
       &nbsp;

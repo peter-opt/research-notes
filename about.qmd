@@ -2,4 +2,14 @@
 title: "About"
 ---
 
-About this site: a research notes gallery from Peter. 
+### About This Site
+
+This site is a collection of my living notes.
+
+### About Me
+
+My name is Peter L. Huang. I am a researcher based in Pasadena, CA, specializing in optics and photoacoustics..
+
+### Links
+
+* For my full CV and publication list, please visit [my academic page](https://peter-opt.github.io/).

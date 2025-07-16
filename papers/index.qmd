@@ -1,4 +1,11 @@
 ---
 title: "Paper Notes"
-listing: default
+listing:
+  contents: "*.qmd"
+  sort: "date desc"
+  type: "table"
+  fields: [Date, title, Author, Journal, status]
+  table-striped: true
 ---
+
+Here I deconstruct and rebuild the ideas from classic and influential papers.

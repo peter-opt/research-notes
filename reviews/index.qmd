@@ -1,4 +1,11 @@
 ---
-title: "Reviews"
-listing: default
+title: "Literature Reviews"
+listing:
+  contents: "*.qmd"
+  sort: "date desc"
+  type: "table"
+  fields: [date, title, status]
+  table-striped: true
 ---
+
+This section contains comprehensive overviews of specific research areas, technological trends, and my synthesis of the current state of the art.

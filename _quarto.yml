@@ -21,7 +21,12 @@ website:
         text: Reviews
       - href: discussions/index.qmd
         text: Discussions
-  page-footer: "Built with Quarto"
+    right: 
+      - href: about.qmd
+        text: About
+
+  page-footer:
+    center: "© 2025 Peter L. Huang. This site was built with Quarto, with thanks to Gemini."
 
 format:
   html:

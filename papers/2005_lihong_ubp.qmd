@@ -1,0 +1,12 @@
+
+---
+title: "Universal Back Projection"
+status: "Planed"
+author: "Peter L. Huang"
+Author: "Minghua Xu, Lihong"
+Date: 2005
+Journal: "Phys. Rev. E"
+bibliography: ../references.bib
+---
+
+Notes on the classic universal back-projection (UBP) algorithm [@2005_xu_ubp].

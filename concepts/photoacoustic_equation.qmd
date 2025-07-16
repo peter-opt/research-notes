@@ -1,0 +1,7 @@
+---
+title: "The Photoacoustic Equation"
+author: Peter L. Huang
+status: "Planned"
+---
+
+Content for this section is planned and will be added soon.

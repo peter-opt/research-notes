@@ -2,7 +2,7 @@
 title: "Research Notes Panel"
 ---
 
-![](./assets/main-qimg-87833c78a604ff07a82ff7787574e197.webp)
+![](./assets/main-qimg-87833c78a604ff07a82ff7787574e197.webp){fig-align="center" width="75%"}
 
 >  *‘What I cannot create, I do not understand.’* — Richard Feynman
 >
@@ -23,7 +23,3 @@ This website is organized into the following sections:
 - **Concepts**: A repository of essential physical principles, mathematical tools, and foundational equations.
 
 - **Discussions**: Explorations of open questions, future directions, and ongoing thoughts in the field.
-
-  
-
-Also, credits to Gemini 2.5 Pro for the recommendation of *Quarto* for this site and invaluable helps in clearing away the fog of formulas.

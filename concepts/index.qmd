@@ -1,4 +1,11 @@
 ---
 title: "Concepts"
-listing: default
+listing:
+  contents: "*.qmd"
+  sort: "date desc"
+  type: "table"
+  fields: [date, title, status]
+  table-striped: true
 ---
+
+This section contains a repository of essential physical principles, mathematical tools, and foundational equations. Below is a list of completed notes and topics I plan to cover.
