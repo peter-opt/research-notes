@@ -7,18 +7,18 @@ project:
 website:
   title: "Peter's Research Notes" # Or whatever you prefer
 
-  site-url: https://peteropt.github.io/research-notes
+  site-url: https://peter-opt.github.io/research-notes
 
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - href: reviews/index.qmd
-        text: Reviews
+      - href: concepts/index.qmd
+        text: Concepts
       - href: papers/index.qmd
         text: Paper Notes
-      - href: cheatsheets/index.qmd
-        text: Cheatsheets
+      - href: reviews/index.qmd
+        text: Reviews
       - href: discussions/index.qmd
         text: Discussions
   page-footer: "Built with Quarto"

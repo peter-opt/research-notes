@@ -1,7 +1,29 @@
 ---
-title: "research-notes"
+title: "Research Notes Panel"
 ---
 
-This is a Quarto website.
+![](./assets/main-qimg-87833c78a604ff07a82ff7787574e197.webp)
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+>  *‘What I cannot create, I do not understand.’* — Richard Feynman
+>
+> 
+
+This site is my digital chalkboard, a place to organize my thoughts and rigorously derive concepts from foundational papers in fields like photoacoustics. 
+
+Following Richard Feynman's principle, my goal is not simply to summarize but to rebuild these ideas from the ground up. By constructing these concepts myself, I aim to solidify my own understanding while sharing these distilled insights with a broader audience.
+
+This website is organized into the following sections:
+
+- **Home**: You are here. The front panel and mission statement for this site.
+
+- **Reviews**: Comprehensive overviews of specific research areas or technological trends.
+
+- **Paper Notes**: Deep dives and rigorous derivations from classic and influential papers.
+
+- **Concepts**: A repository of essential physical principles, mathematical tools, and foundational equations.
+
+- **Discussions**: Explorations of open questions, future directions, and ongoing thoughts in the field.
+
+  
+
+Also, credits to Gemini 2.5 Pro for the recommendation of *Quarto* for this site and invaluable helps in clearing away the fog of formulas.

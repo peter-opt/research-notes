@@ -11,7 +11,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site"
+    "text": "About this site: a research notes gallery from Peter."
   },
   {
     "objectID": "papers/index.html",
@@ -30,14 +30,14 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "research-notes",
+    "title": "Research Notes Panel",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "‘What I cannot create, I do not understand.’ — Richard Feynman\n\nThis site is my digital chalkboard, a place to organize my thoughts and rigorously derive concepts from foundational papers in fields like photoacoustics.\nFollowing Richard Feynman’s principle, my goal is not simply to summarize but to rebuild these ideas from the ground up. By constructing these concepts myself, I aim to solidify my own understanding while sharing these distilled insights with a broader audience.\nThis website is organized into the following sections:\n\nHome: You are here. The front panel and mission statement for this site.\nReviews: Comprehensive overviews of specific research areas or technological trends.\nPaper Notes: Deep dives and rigorous derivations from classic and influential papers.\nConcepts: A repository of essential physical principles, mathematical tools, and foundational equations.\nDiscussions: Explorations of open questions, future directions, and ongoing thoughts in the field.\n\nAlso, credits to Gemini 2.5 Pro for the recommendation of Quarto for this site and invaluable helps in clearing away the fog of formulas."
   },
   {
-    "objectID": "cheatsheets/index.html",
-    "href": "cheatsheets/index.html",
-    "title": "Cheatsheets",
+    "objectID": "concepts/index.html",
+    "href": "concepts/index.html",
+    "title": "Concepts",
     "section": "",
     "text": "No matching items"
   }
