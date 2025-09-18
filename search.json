@@ -11,35 +11,14 @@
     "href": "concepts/index.html",
     "title": "Concepts",
     "section": "",
-    "text": "This section contains a repository of essential physical principles, mathematical tools, and foundational equations. Below is a list of completed notes and topics I plan to cover.\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Title\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\n\nTitle\n\n\n\nstatus\n\n\n\n\n\n\n\n\n \n\n\nThe Photoacoustic Equation\n\n\nPlanned\n\n\n\n\n\n\nNo matching items"
+    "text": "This section contains a repository of essential physical principles, mathematical tools, and foundational equations. Below is a list of completed notes and topics I plan to cover.\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Title\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\n\nTitle\n\n\n\nstatus\n\n\n\n\n\n\n\n\n \n\n\nThe Photoacoustic Equation\n\n\nPlanned\n\n\n\n\n\n\nSep 18, 2025\n\n\nEtendue\n\n\nPublished\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "concepts/photoacoustic_equation.html",
+    "href": "concepts/photoacoustic_equation.html",
+    "title": "The Photoacoustic Equation",
     "section": "",
-    "text": "About This Site\nThis site is a collection of my living notes.\n\n\nAbout Me\nMy name is Peter L. Huang. I am a researcher based in Pasadena, CA, specializing in optics and photoacoustics..\n\n\nLinks\n\nFor my full CV and publication list, please visit my academic page."
-  },
-  {
-    "objectID": "papers/2005_lihong_ubp.html",
-    "href": "papers/2005_lihong_ubp.html",
-    "title": "Universal Back Projection",
-    "section": "",
-    "text": "Notes on the classic universal back-projection (UBP) algorithm (Xu and Wang 2005).\n\n\n\n\nReferences\n\nXu, Minghua, and Lihong V. Wang. 2005. “Universal Back-Projection Algorithm for Photoacoustic Computed Tomography.” Phys. Rev. E 71 (January): 016706. https://doi.org/10.1103/PhysRevE.71.016706."
-  },
-  {
-    "objectID": "discussions/index.html",
-    "href": "discussions/index.html",
-    "title": "Discussions",
-    "section": "",
-    "text": "No matching items"
-  },
-  {
-    "objectID": "papers/index.html",
-    "href": "papers/index.html",
-    "title": "Paper Notes",
-    "section": "",
-    "text": "Here I deconstruct and rebuild the ideas from classic and influential papers.\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Title\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\n\nTitle\n\n\n\nAuthor\n\n\n\nJournal\n\n\n\nstatus\n\n\n\n\n\n\n\n\n2005\n\n\nUniversal Back Projection\n\n\nMinghua Xu, Lihong\n\n\nPhys. Rev. E\n\n\nPlaned\n\n\n\n\n\n\nNo matching items"
+    "text": "Content for this section is planned and will be added soon."
   },
   {
     "objectID": "index.html",
@@ -49,11 +28,53 @@
     "text": "‘What I cannot create, I do not understand.’ — Richard Feynman\n\nThis site is my digital chalkboard, a place to organize my thoughts and rigorously derive concepts from foundational papers in fields like photoacoustics.\nFollowing Richard Feynman’s principle, my goal is not simply to summarize but to rebuild these ideas from the ground up. By constructing these concepts myself, I aim to solidify my own understanding while sharing these distilled insights with a broader audience.\nThis website is organized into the following sections:\n\nHome: You are here. The front panel and mission statement for this site.\nReviews: Comprehensive overviews of specific research areas or technological trends.\nPaper Notes: Deep dives and rigorous derivations from classic and influential papers.\nConcepts: A repository of essential physical principles, mathematical tools, and foundational equations.\nDiscussions: Explorations of open questions, future directions, and ongoing thoughts in the field."
   },
   {
-    "objectID": "concepts/photoacoustic_equation.html",
-    "href": "concepts/photoacoustic_equation.html",
-    "title": "The Photoacoustic Equation",
+    "objectID": "papers/1991_khan_pa.html",
+    "href": "papers/1991_khan_pa.html",
+    "title": "Photoacoustic Radiation",
     "section": "",
-    "text": "Content for this section is planned and will be added soon."
+    "text": "Notes on the photoacoustic radiation."
+  },
+  {
+    "objectID": "discussions/future_of_imaging.html",
+    "href": "discussions/future_of_imaging.html",
+    "title": "The Future of Microscopic Imaging",
+    "section": "",
+    "text": "(Content coming soon…)"
+  },
+  {
+    "objectID": "discussions/index.html",
+    "href": "discussions/index.html",
+    "title": "Discussions",
+    "section": "",
+    "text": "This section is for open-ended discussions and explorations of important problems in the field. Below is a list of completed articles and topics I plan to cover.\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Title\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTitle\n\n\n\nstatus\n\n\n\n\n\n\n\n\nThe Future of Microscopic Imaging\n\n\nPlanned\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "papers/index.html",
+    "href": "papers/index.html",
+    "title": "Paper Notes",
+    "section": "",
+    "text": "Here I deconstruct and rebuild the ideas from classic and influential papers.\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Title\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\n\nTitle\n\n\n\nAuthor\n\n\n\nJournal\n\n\n\nstatus\n\n\n\n\n\n\n\n\n2005\n\n\nPhotoacoustic Radiation\n\n\nG. J. Diebold, T. Sun, M. I. Khan\n\n\nPhys. Rev. Lett.\n\n\nPlaned\n\n\n\n\n\n\n2005\n\n\nUniversal Back Projection\n\n\nMinghua Xu, Lihong\n\n\nPhys. Rev. E\n\n\nPlaned\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "papers/2005_lihong_ubp.html",
+    "href": "papers/2005_lihong_ubp.html",
+    "title": "Universal Back Projection",
+    "section": "",
+    "text": "Notes on the classic universal back-projection (UBP) algorithm (Xu and Wang 2005).\n\n\n\n\nReferences\n\nXu, Minghua, and Lihong V. Wang. 2005. “Universal Back-Projection Algorithm for Photoacoustic Computed Tomography.” Phys. Rev. E 71 (January): 016706. https://doi.org/10.1103/PhysRevE.71.016706."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About This Site\nThis site is a collection of my living notes.\n\n\nAbout Me\nMy name is Peter L. Huang. I am a researcher based in Pasadena, CA, specializing in optics and photoacoustics..\n\n\nLinks\n\nFor my full CV and publication list, please visit my academic page."
+  },
+  {
+    "objectID": "concepts/Etendue.html",
+    "href": "concepts/Etendue.html",
+    "title": "Etendue",
+    "section": "",
+    "text": "Etendue is an essential concept mentioned many times in group meetings and biomedical optics classes. I did not pay attention to it until an informative discussion with our team. Credits to Indra, Josh, and Junhao.\n\n\n\nConservation of etendue, Wikipedia\n\n\nThe root of etendue can be traced to statistical mechanics and Liouville’s theorem, which refers to incompressible volume in phase space. Here we present some intuitive understandings from optical systems.\n\nPerspective of opcial imaging system\n\nGiven a 4f system, the magnification is: \\[\n|\\mathrm{M}|=\\frac{f_2}{f_1}=\\frac{d_2}{d_1},\n\\] Therefore: \\[\n\\frac{d_1}{f_1}=\\frac{d_2}{f_2}.\n\\] The aperture diaphragm gives the NA of the system: \\[\n\\mathrm{NA} = \\frac{d_0/2}{f_1}.\n\\] Therefore, we have: \\[\n\\boxed{d_1\\cdot \\mathrm{NA}_1=d_2\\cdot \\mathrm{NA}_2}\n\\] This equation basically says that there is a trade-off between field of view (FOV) and resolution. Take the square on each side: \\[\nd_1^2\\mathrm{NA}_1^2=d_2^2\\mathrm{NA}_2^2\\implies A_1\\Omega_1=A_2\\Omega_2,\n\\] since the solid angle \\(\\Omega\\) is defined by \\(A/r^2\\), which is equal to \\(d_0^2/f^2\\) in the system.\n\n\nPerspective of information\nThe etendue \\(A\\cdot \\Omega\\) is the optical throughput received from the camera side. For small angles (paraxial approximation), we have: \\(\\mathrm{NA}\\propto \\sqrt{\\Omega}\\). Therefore, the camera sees: \\[\nN_{\\mathrm{px}}=\\frac{A}{\\Delta p^2}\\propto\\frac{A}{(\\lambda/\\mathrm{NA})^2}=\\frac{A\\Omega}{\\lambda^2}\\propto \\boxed{A\\Omega}.\n\\] The etendue is proportional to the total image pixels obtained by the camera, which is the terminal for the image system."
   },
   {
     "objectID": "reviews/pact_recon.html",

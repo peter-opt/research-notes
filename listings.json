@@ -8,16 +8,20 @@
   {
     "listing": "/concepts/index.html",
     "items": [
-      "/concepts/photoacoustic_equation.html"
+      "/concepts/photoacoustic_equation.html",
+      "/concepts/Etendue.html"
     ]
   },
   {
     "listing": "/discussions/index.html",
-    "items": []
+    "items": [
+      "/discussions/future_of_imaging.html"
+    ]
   },
   {
     "listing": "/papers/index.html",
     "items": [
+      "/papers/1991_khan_pa.html",
       "/papers/2005_lihong_ubp.html"
     ]
   }
