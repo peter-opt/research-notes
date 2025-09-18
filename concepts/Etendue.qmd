@@ -1,7 +1,8 @@
 ---
 title: "Etendue"
 author: Peter L. Huang
-status: "On-going"
+status: "Published"
+date: "2025-09-18"
 ---
 
 *Etendue* is an essential concept mentioned many times in group meetings and biomedical optics classes. I did not pay attention to it until an informative discussion with our team. Credits to Indra, Josh, and Junhao.
