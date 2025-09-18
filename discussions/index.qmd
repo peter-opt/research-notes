@@ -1,4 +1,11 @@
 ---
 title: "Discussions"
-listing: default
+listing:
+  contents: "*.qmd"      # List all Quarto files in this directory
+  sort: "title asc"     # Sort them alphabetically
+  type: "table"         # Display the list as a table
+  fields: [title, status] # Show the title and status of each post
+  table-striped: true   # Add alternating row colors for readability
 ---
+
+This section is for open-ended discussions and explorations of important problems in the field. Below is a list of completed articles and topics I plan to cover.

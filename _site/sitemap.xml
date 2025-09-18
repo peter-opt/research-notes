@@ -2,42 +2,50 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://peter-opt.github.io/research-notes/reviews/index.html</loc>
-    <lastmod>2025-07-19T19:17:12.457Z</lastmod>
+    <lastmod>2025-07-16T06:17:07.124Z</lastmod>
   </url>
   <url>
     <loc>https://peter-opt.github.io/research-notes/concepts/index.html</loc>
-    <lastmod>2025-07-19T19:17:12.457Z</lastmod>
+    <lastmod>2025-07-16T06:11:12.440Z</lastmod>
   </url>
   <url>
     <loc>https://peter-opt.github.io/research-notes/concepts/photoacoustic_equation.html</loc>
-    <lastmod>2025-09-18T15:53:50.207Z</lastmod>
+    <lastmod>2025-07-16T23:23:35.738Z</lastmod>
   </url>
   <url>
     <loc>https://peter-opt.github.io/research-notes/index.html</loc>
-    <lastmod>2025-07-19T19:17:12.457Z</lastmod>
+    <lastmod>2025-07-16T06:14:24.244Z</lastmod>
   </url>
   <url>
-    <loc>https://peter-opt.github.io/research-notes/papers/index.html</loc>
-    <lastmod>2025-07-19T19:17:12.457Z</lastmod>
+    <loc>https://peter-opt.github.io/research-notes/papers/1991_khan_pa.html</loc>
+    <lastmod>2025-09-18T17:43:10.395Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peter-opt.github.io/research-notes/discussions/future_of_imaging.html</loc>
+    <lastmod>2025-09-18T17:49:39.050Z</lastmod>
   </url>
   <url>
     <loc>https://peter-opt.github.io/research-notes/discussions/index.html</loc>
-    <lastmod>2025-07-19T19:17:12.457Z</lastmod>
+    <lastmod>2025-09-18T17:49:03.352Z</lastmod>
+  </url>
+  <url>
+    <loc>https://peter-opt.github.io/research-notes/papers/index.html</loc>
+    <lastmod>2025-07-16T06:53:15.105Z</lastmod>
   </url>
   <url>
     <loc>https://peter-opt.github.io/research-notes/papers/2005_lihong_ubp.html</loc>
-    <lastmod>2025-07-19T19:17:12.457Z</lastmod>
+    <lastmod>2025-07-17T00:06:20.312Z</lastmod>
   </url>
   <url>
     <loc>https://peter-opt.github.io/research-notes/about.html</loc>
-    <lastmod>2025-07-19T19:17:12.457Z</lastmod>
+    <lastmod>2025-07-16T05:56:19.603Z</lastmod>
   </url>
   <url>
     <loc>https://peter-opt.github.io/research-notes/concepts/Etendue.html</loc>
-    <lastmod>2025-09-18T16:59:24.272Z</lastmod>
+    <lastmod>2025-09-18T17:42:48.530Z</lastmod>
   </url>
   <url>
     <loc>https://peter-opt.github.io/research-notes/reviews/pact_recon.html</loc>
-    <lastmod>2025-07-19T19:17:12.458Z</lastmod>
+    <lastmod>2025-07-16T06:18:17.454Z</lastmod>
   </url>
 </urlset>

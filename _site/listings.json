@@ -13,13 +13,16 @@
     ]
   },
   {
-    "listing": "/papers/index.html",
+    "listing": "/discussions/index.html",
     "items": [
-      "/papers/2005_lihong_ubp.html"
+      "/discussions/future_of_imaging.html"
     ]
   },
   {
-    "listing": "/discussions/index.html",
-    "items": []
+    "listing": "/papers/index.html",
+    "items": [
+      "/papers/1991_khan_pa.html",
+      "/papers/2005_lihong_ubp.html"
+    ]
   }
 ]

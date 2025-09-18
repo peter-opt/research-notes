@@ -1,0 +1,12 @@
+
+---
+title: "Photoacoustic Radiation"
+status: "Planed"
+author: "Peter L. Huang"
+Author: "G. J. Diebold, T. Sun, M. I. Khan"
+Date: 2005
+Journal: "Phys. Rev. Lett."
+bibliography: ../references.bib
+---
+
+Notes on the photoacoustic radiation.
